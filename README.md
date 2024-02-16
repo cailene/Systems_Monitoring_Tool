@@ -22,7 +22,7 @@ My approach to solving this assignment is the following:
 - Built functions for each stat one-by-one to help with debugging and comparing stats
 - Used `free`, `top`, and `htop` commands to compare program results with a real-time system monitor
 - Reviewed class materials for command line arguments and further consulted a TA, deciding to use `getopt.h` library to handle this task 
-- Consulted piazza on how to optimize information handling and implement a 'struct' to help in organizing print functions and get (information) functions
+- Consulted class forum on how to optimize information handling and implement a 'struct' to help in organizing print functions and get (information) functions
 
 ## Functions Overview
 ### SystemsStats Struct
